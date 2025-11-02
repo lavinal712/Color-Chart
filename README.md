@@ -15,7 +15,7 @@ This color palette is extracted from Figure 6 of the paper: [Scalable Diffusion 
 | | `#B2CCA2` | `rgb(178, 204, 162)` | <div style="background-color:#B2CCA2; width:50px; height:20px; border:1px solid #ccc;"></div> |
 | Blue | `#5C8DFC` | `rgb(92, 141, 252)` | <div style="background-color:#5C8DFC; width:50px; height:20px; border:1px solid #ccc;"></div> |
 | | `#85AAFD` | `rgb(133, 170, 253)` | <div style="background-color:#85AAFD; width:50px; height:20px; border:1px solid #ccc;"></div> |
-| | `#ADC5FD` | `rgb(173,197,253)` | <div style="background-color:#ADC5FD; width:50px; height:20px; border:1px solid #ccc;"></div> |
+| | `#ADC5FD` | `rgb(173, 197, 253)` | <div style="background-color:#ADC5FD; width:50px; height:20px; border:1px solid #ccc;"></div> |
 
 ## Tool
 
